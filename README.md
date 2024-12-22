@@ -17,3 +17,5 @@ https://dicoding-yvgodng7tthhkdwluhn5hu.streamlit.app/
    cd DICODING
 3. Install the required Python packages by running:
    pip install -r requirements.txt
+4. Run steamlit app
+   https://dicoding-yvgodng7tthhkdwluhn5hu.streamlit.app/
