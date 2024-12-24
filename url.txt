@@ -1,3 +1,0 @@
-Streamlit Dashboard
-
-https://dicoding-yvgodng7tthhkdwluhn5hu.streamlit.app/ 
